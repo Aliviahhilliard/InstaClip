@@ -78,10 +78,16 @@ This project is licensed under the MIT License.
 
 ## Contact Information
 
-- Developer Team Lead: [Your Name](mailto:your.email@example.com)
-- Github Repository: [MyGameClipShareApp](https://github.com/YourGitHubUsername/MyGameClipShareApp)
-- Deployed Application: [Heroku App Link](#)
+- Developer Team: 
+- [Elijah Francis](https://github.com/ElijahAFrancis)
+- [Jake McKittrick](https://github.com/MCKIT77)
+- [Aliviah Hilliard](https://github.com/Aliviahhilliard)
+- [Ibrahima Diallo](https://github.com/Gninkan94)
+
+
+- Github Repository: [InstaClip](https://github.com/ElijahAFrancis/InstaClip)
+- Deployed Application: [Heroku App Link](#https://instaclip-5c26d78800f1.herokuapp.com/signup)
 
 ---
 
-Created by [Your Team's Name] for showcasing problem-solving skills, with a focus on data and user demand.
+Created by [TEAM SEVEN] for showcasing problem-solving skills, with a focus on data and user demand.
