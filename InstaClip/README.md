@@ -86,7 +86,7 @@ This project is licensed under the MIT License.
 
 
 - Github Repository: [InstaClip](https://github.com/ElijahAFrancis/InstaClip)
-- Deployed Application: [Heroku App Link](#https://instaclip-5c26d78800f1.herokuapp.com/signup)
+- Deployed Application: [Heroku App Link](https://instaclip-5c26d78800f1.herokuapp.com/signup)
 
 ---
 
